@@ -106,27 +106,27 @@ export const SkillsInfo = [
 ];
 
   export const experiences = [
+//     {
+//       id: 0,
+//       img: swechaLogo,
+//       role: "AI Developer",
+//       company: "Viswam.AI",
+//       date: "May 2025 - July 2025",
+//       desc: "Completed a hybrid AI internship at VISWAM.AI, gaining hands-on experience in fine-tuning models, Python, and deploying impactful real-world AI solutions.",
+      
+//       skills: [
+//          "Python",
+//          "Machine Learning",
+//          "Model Fine-Tuning",
+//          "DevOps",
+//          "Linux",
+//          "Git & GitHub",
+//          "Data Preprocessing",
+       
+// ],
+//     },
     {
       id: 0,
-      img: swechaLogo,
-      role: "AI Developer",
-      company: "Viswam.AI",
-      date: "May 2025 - July 2025",
-      desc: "Completed a hybrid AI internship at VISWAM.AI, gaining hands-on experience in fine-tuning models, Python, and deploying impactful real-world AI solutions.",
-      
-      skills: [
-         "Python",
-         "Machine Learning",
-         "Model Fine-Tuning",
-         "DevOps",
-         "Linux",
-         "Git & GitHub",
-         "Data Preprocessing",
-       
-],
-    },
-    {
-      id: 1,
       img: sysLogo,
       role: "Fullstack Developer",
       company: "Syslabs | Xenlabs Services LLP",
